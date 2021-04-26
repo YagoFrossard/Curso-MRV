@@ -1,0 +1,16 @@
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\bin\Debug\net5.0\PrimeiroProjetoDotNet.exe
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\bin\Debug\net5.0\PrimeiroProjetoDotNet.deps.json
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\bin\Debug\net5.0\PrimeiroProjetoDotNet.runtimeconfig.json
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\bin\Debug\net5.0\PrimeiroProjetoDotNet.runtimeconfig.dev.json
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\bin\Debug\net5.0\PrimeiroProjetoDotNet.dll
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\bin\Debug\net5.0\ref\PrimeiroProjetoDotNet.dll
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\bin\Debug\net5.0\PrimeiroProjetoDotNet.pdb
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\obj\Debug\net5.0\PrimeiroProjetoDotNet.csprojAssemblyReference.cache
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\obj\Debug\net5.0\PrimeiroProjetoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\obj\Debug\net5.0\PrimeiroProjetoDotNet.AssemblyInfoInputs.cache
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\obj\Debug\net5.0\PrimeiroProjetoDotNet.AssemblyInfo.cs
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\obj\Debug\net5.0\PrimeiroProjetoDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\obj\Debug\net5.0\PrimeiroProjetoDotNet.dll
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\obj\Debug\net5.0\ref\PrimeiroProjetoDotNet.dll
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\obj\Debug\net5.0\PrimeiroProjetoDotNet.pdb
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\PrimeiroProjetoDotNet\obj\Debug\net5.0\PrimeiroProjetoDotNet.genruntimeconfig.cache
