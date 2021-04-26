@@ -14,7 +14,7 @@ namespace PrimeiroProjetoDotNet
 				switch (intResp)
 				{
 					case 1:
-						if(jogos.Length == 5)
+						if(index < 5)
                         {
 							Console.Write("Informe o nome do jogo: ");
 							Jogo jogo = new Jogo();
