@@ -1,0 +1,16 @@
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\obj\Debug\net5.0\CadastroDeJogos.csprojAssemblyReference.cache
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\obj\Debug\net5.0\CadastroDeJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\obj\Debug\net5.0\CadastroDeJogos.AssemblyInfoInputs.cache
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\obj\Debug\net5.0\CadastroDeJogos.AssemblyInfo.cs
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\obj\Debug\net5.0\CadastroDeJogos.csproj.CoreCompileInputs.cache
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\bin\Debug\net5.0\CadastroDeJogos.exe
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\bin\Debug\net5.0\CadastroDeJogos.deps.json
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\bin\Debug\net5.0\CadastroDeJogos.runtimeconfig.json
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\bin\Debug\net5.0\CadastroDeJogos.runtimeconfig.dev.json
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\bin\Debug\net5.0\CadastroDeJogos.dll
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\bin\Debug\net5.0\ref\CadastroDeJogos.dll
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\bin\Debug\net5.0\CadastroDeJogos.pdb
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\obj\Debug\net5.0\CadastroDeJogos.dll
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\obj\Debug\net5.0\ref\CadastroDeJogos.dll
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\obj\Debug\net5.0\CadastroDeJogos.pdb
+C:\Users\Yagrilhos\Documents\MeusProjetos\Curso_MRV\CadastroDeJogos\obj\Debug\net5.0\CadastroDeJogos.genruntimeconfig.cache
